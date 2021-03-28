@@ -1,11 +1,11 @@
 {
-    "name": "magneto-python-aria",
-    "description": "Telegram mirror bot with python",
+    "name": "air",
+    "description": "bot with python",
     "logo": "https://telegra.ph/file/e15e9ac9c5885b015e3ab.jpg",
     "keywords": [
       "telegram",
       "bot",
-      "aria",
+    
       "python"
     ],
     "repository": "https://github.com/deaduserbot/magneto2.git",
