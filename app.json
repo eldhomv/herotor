@@ -8,9 +8,9 @@
     
       "python"
     ],
-    "repository": "https://github.com/deaduserbot/magneto2.git",
-    "website": "https://github.com/deaduserbot/magneto2",
-    "success_url": "https://github.com/deaduserbot/magneto2",
+    "repository": "https://github.com/eldhomv/herotor",
+    "website": "https://github.com/eldhomv/herotor",
+    "success_url": "https://github.com/eldhomv/herotor",
     "stack": "container",
     "env": {
       "ENV": {
